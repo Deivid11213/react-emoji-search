@@ -32,8 +32,7 @@ Recuerda que es necesario tener Node.js y Yarn instalados en tu máquina para po
 
 ¡Sígueme en las redes sociales para obtener más actualizaciones y contenido relacionado con este proyecto! 🌟
 
-- Instagram: [insertar enlace a tu perfil de Instagram] 📸
-- LinkedIn: [insertar enlace a tu perfil de LinkedIn] 💼
-- GitHub: [insertar enlace a tu perfil de GitHub] 🐙
+- Instagram: [https://instagram.com/deivid1912_] 📸
+- GitHub: [https://github.com/Deivid11213] 🐙
 
 ¡Espero que disfrutes utilizando la aplicación y que encuentres útiles mis redes sociales! Si tienes alguna pregunta o problema con el proyecto, no dudes en contactarme a través de cualquiera de estas plataformas. Estoy aquí para ayudarte. 😊👍
